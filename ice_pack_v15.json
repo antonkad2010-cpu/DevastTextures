@@ -1,0 +1,1440 @@
+{
+  "v": 1,
+  "data": [
+    {
+      "id": "d7",
+      "matchUrl": "https://devast.io*",
+      "rules": [
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-AK47.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-AK47.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-AK47.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-AK47.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-ground-ak47.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-ground-ak47.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-ground-ak47.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-ground-ak47.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-ak47-out.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-ak47-out.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-ak47-in.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-ak47-in.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-ak47-click.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-ak47-click.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-AK47-cartridge.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-AK47-cartridge.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-AK47-cartridge.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-AK47-cartridge.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-bullet3.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-bullet3.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-bullet4.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-bullet4.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-bullet4l.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-bullet4l.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-bullet3.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-bullet3.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-bullet4.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-bullet4.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-bullet4l.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-bullet4l.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-laser-submachine.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-laser-submachine.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-laser-submachine.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-laser-submachine.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-ground-laser-submachine.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-ground-laser-submachine.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-ground-laser-submachine.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-ground-laser-submachine.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-laser-submachine-out.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-laser-submachine-out.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-laser-submachine-in.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-laser-submachine-in.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-laser-submachine-click.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-laser-submachine-click.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-cells-cartridge.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-cells-cartridge.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-cells-cartridge.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-cells-cartridge.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-laser0.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-laser0.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-laser0.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-laser0.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-laser1l.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-laser1l.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-laser1l.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-laser1l.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-laser-effect0.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-laser-effect0.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-laser-effect0.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-laser-effect0.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-laser-effect1.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-laser-effect1.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-laser-effect1.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-laser-effect1.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-laser-effect2.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-laser-effect2.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-laser-effect2.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-laser-effect2.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-laser-effect3.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-laser-effect3.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-laser-effect3.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-laser-effect3.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-laser-effect4.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-laser-effect4.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-laser-effect4.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-laser-effect4.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-tesla-armor.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-tesla-armor.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-tesla-armor.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-tesla-armor.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-left-arm-tesla-armor.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-left-arm-tesla-armor.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-left-arm-tesla-armor.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-left-arm-tesla-armor.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-right-arm-tesla-armor.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-right-arm-tesla-armor.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-right-arm-tesla-armor.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-right-arm-tesla-armor.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-ground-tesla-armor.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-ground-tesla-armor.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-ground-tesla-armor.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-ground-tesla-armor.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-tesla-armor-out.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-tesla-armor-out.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-tesla-armor-in.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-tesla-armor-in.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-tesla-armor-click.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-tesla-armor-click.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-SWAT-suit.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-SWAT-suit.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-SWAT-suit.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-SWAT-suit.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-left-arm-SWAT-suit.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-left-arm-SWAT-suit.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-left-arm-SWAT-suit.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-left-arm-SWAT-suit.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-right-arm-SWAT-suit.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-right-arm-SWAT-suit.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-right-arm-SWAT-suit.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-right-arm-SWAT-suit.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-ground-SWAT-suit.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-ground-SWAT-suit.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-ground-SWAT-suit.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-ground-SWAT-suit.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-SWAT-suit-out.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-SWAT-suit-out.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-SWAT-suit-in.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-SWAT-suit-in.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-SWAT-suit-click.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-SWAT-suit-click.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-sulfur-axe.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-sulfur-axe.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-sulfur-axe.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-sulfur-axe.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-ground-sulfur-axe.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-ground-sulfur-axe.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-ground-sulfur-axe.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-ground-sulfur-axe.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-sulfur-axe-out.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-sulfur-axe-out.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-sulfur-axe-in.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-sulfur-axe-in.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-sulfur-axe-click.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-sulfur-axe-click.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-sulfur-pickaxe.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-sulfur-pickaxe.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-sulfur-pickaxe.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-sulfur-pickaxe.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-ground-sulfur-pickaxe.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-ground-sulfur-pickaxe.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-ground-sulfur-pickaxe.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-ground-sulfur-pickaxe.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-sulfur-pickaxe-out.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-sulfur-pickaxe-out.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-sulfur-pickaxe-in.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-sulfur-pickaxe-in.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-sulfur-pickaxe-click.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-sulfur-pickaxe-click.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-dead-player.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-dead-player.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-ground-bullet-sniper.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-ground-bullet-sniper.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-ground-sniper.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-ground-sniper.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-particules-blood1.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-particules-blood1.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-particules-blood2.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-particules-blood2.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-particules-blood3.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-particules-blood3.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-particules-blood4.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-particules-blood4.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-particules-blood5.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-particules-blood5.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-sniper.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-sniper.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/hurt-player.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/hurt-player.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-bullet-sniper-click.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-bullet-sniper-click.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-bullet-sniper-in.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-bullet-sniper-in.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-bullet-sniper-out.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-bullet-sniper-out.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-sniper-click.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-sniper-click.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-sniper-in.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-sniper-in.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-sniper-out.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-sniper-out.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-dead-player.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-dead-player.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-ground-bullet-sniper.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-ground-bullet-sniper.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-ground-sniper.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-ground-sniper.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-particules-blood1.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-particules-blood1.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-particules-blood2.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-particules-blood2.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-particules-blood3.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-particules-blood3.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-particules-blood4.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-particules-blood4.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-particules-blood5.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-particules-blood5.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-sniper.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-sniper.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-coat.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-coat.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-ground-coat.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-ground-coat.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-left-arm-coat.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-left-arm-coat.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-right-arm-coat.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-right-arm-coat.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-coat-click.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-coat-click.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-coat-in.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-coat-in.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-coat-out.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-coat-out.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-coat.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-coat.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-ground-coat.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-ground-coat.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-left-arm-coat.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-left-arm-coat.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-right-arm-coat.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-right-arm-coat.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-fridge.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-fridge.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-fridge0.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-fridge0.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-fridge1.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-fridge1.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-ground-fridge.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-ground-fridge.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-left-arm0.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-left-arm0.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-left-arm2.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-left-arm2.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-left-arm4.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-left-arm4.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-particules-fridge0.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-particules-fridge0.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-particules-fridge1.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-particules-fridge1.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-particules-fridge2.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-particules-fridge2.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-particules-fridge3.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-particules-fridge3.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-particules-fridge4.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-particules-fridge4.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-right-arm0.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-right-arm0.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-right-arm2.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-right-arm2.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-right-arm4.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-right-arm4.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-skin0.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-skin0.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-skin1.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-skin1.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-skin2.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-skin2.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-skin3.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-skin3.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-skin4.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-skin4.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-skin5.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-skin5.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/e-fridge.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/e-fridge.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-fridge-click.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-fridge-click.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-fridge-in.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-fridge-in.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-fridge-out.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-fridge-out.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-fridge.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-fridge.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-fridge0.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-fridge0.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-fridge1.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-fridge1.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-ground-fridge.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-ground-fridge.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-left-arm0.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-left-arm0.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-left-arm2.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-left-arm2.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-left-arm4.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-left-arm4.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-particules-fridge0.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-particules-fridge0.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-particules-fridge1.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-particules-fridge1.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-particules-fridge2.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-particules-fridge2.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-particules-fridge3.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-particules-fridge3.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-particules-fridge4.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-particules-fridge4.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-right-arm0.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-right-arm0.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-right-arm2.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-right-arm2.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-right-arm4.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-right-arm4.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-skin0.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-skin0.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-skin1.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-skin1.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-skin2.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-skin2.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-skin3.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-skin3.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-skin4.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-skin4.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-skin5.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-skin5.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-ground-sleeping-bag.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-ground-sleeping-bag.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-particules-fur1.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-particules-fur1.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-particules-fur2.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-particules-fur2.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-particules-fur3.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-particules-fur3.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-particules-fur4.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-particules-fur4.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-particules-fur5.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-particules-fur5.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-sleeping-bag.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-sleeping-bag.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-sleeping-bag-click.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-sleeping-bag-click.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-sleeping-bag-in.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-sleeping-bag-in.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-sleeping-bag-out.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-sleeping-bag-out.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-ground-sleeping-bag.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-ground-sleeping-bag.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-particules-fur1.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-particules-fur1.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-particules-fur2.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-particules-fur2.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-particules-fur3.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-particules-fur3.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-particules-fur4.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-particules-fur4.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-particules-fur5.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-particules-fur5.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-sleeping-bag.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-sleeping-bag.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-ground-hammer.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-ground-hammer.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-ground-laser-sniper.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-ground-laser-sniper.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-ground-radiation-suit.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-ground-radiation-suit.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-ground-repair-hammer.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-ground-repair-hammer.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-ground-super-hammer.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-ground-super-hammer.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-hammer.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-hammer.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-laser-sniper.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-laser-sniper.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-left-arm-radiation-suit.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-left-arm-radiation-suit.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-radiation-suit.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-radiation-suit.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-repair-hammer.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-repair-hammer.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-right-arm-radiation-suit.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-right-arm-radiation-suit.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-super-hammer.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/day-super-hammer.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-hammer-click.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-hammer-click.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-hammer-in.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-hammer-in.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-hammer-out.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-hammer-out.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-laser-sniper-click.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-laser-sniper-click.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-laser-sniper-in.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-laser-sniper-in.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-laser-sniper-out.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-laser-sniper-out.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-radiation-suit-click.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-radiation-suit-click.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-radiation-suit-in.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-radiation-suit-in.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-radiation-suit-out.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-radiation-suit-out.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-repair-hammer-click.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-repair-hammer-click.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-repair-hammer-in.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-repair-hammer-in.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-repair-hammer-out.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-repair-hammer-out.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-super-hammer-click.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-super-hammer-click.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-super-hammer-in.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-super-hammer-in.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-super-hammer-out.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/inv-super-hammer-out.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-ground-hammer.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-ground-hammer.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-ground-laser-sniper.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-ground-laser-sniper.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-ground-radiation-suit.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-ground-radiation-suit.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-ground-repair-hammer.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-ground-repair-hammer.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-ground-super-hammer.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-ground-super-hammer.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-hammer.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-hammer.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-laser-sniper.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-laser-sniper.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-left-arm-radiation-suit.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-left-arm-radiation-suit.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-radiation-suit.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-radiation-suit.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-repair-hammer.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-repair-hammer.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-right-arm-radiation-suit.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-right-arm-radiation-suit.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-super-hammer.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/ice_v10/night-super-hammer.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-tesla-bot-death.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/xmas_teslabot/day-tesla-bot-death-v2.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-tesla-bot-left-arm.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/xmas_teslabot/day-tesla-bot-left-arm.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-tesla-bot-right-arm.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/xmas_teslabot/day-tesla-bot-right-arm.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-tesla-bot.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/xmas_teslabot/day-tesla-bot-v2.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-tesla-bot-death.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/xmas_teslabot/night-tesla-bot-death-v2.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-tesla-bot-left-arm.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/xmas_teslabot/night-tesla-bot-left-arm.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-tesla-bot-right-arm.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/xmas_teslabot/night-tesla-bot-right-arm.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-tesla-bot.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/xmas_teslabot/night-tesla-bot-v2.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/tesla-bot-hurt.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/xmas_teslabot/tesla-bot-hurt-v2.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-ground-wood-spear.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/cigarette_spear/day-ground-wood-spear.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-wood-spear.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/cigarette_spear/day-wood-spear.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-wood-spear0.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/cigarette_spear/day-wood-spear0.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/day-wood-spear1.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/cigarette_spear/day-wood-spear1.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-wood-spear-click.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/cigarette_spear/inv-wood-spear-click.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-wood-spear-in.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/cigarette_spear/inv-wood-spear-in.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/inv-wood-spear-out.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/cigarette_spear/inv-wood-spear-out.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-ground-wood-spear.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/cigarette_spear/night-ground-wood-spear.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-wood-spear.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/cigarette_spear/night-wood-spear.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-wood-spear0.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/cigarette_spear/night-wood-spear0.png",
+          "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "https://devast.io/img/night-wood-spear1.png",
+          "replace": "https://raw.githubusercontent.com/antonkad2010-cpu/DevastTextures/main/cigarette_spear/night-wood-spear1.png",
+          "on": true
+        },
+        {
+          "type": "fileInject",
+          "fileId": "f1",
+          "fileName": "black_ground.css",
+          "file": "html,body,#bod,#can,canvas,body canvas{background-color:#000000 !important;background-image:none !important}html,body,#bod{background:#000000 !important}",
+          "fileType": "css",
+          "injectLocation": "head",
+          "on": true
+        },
+        {
+          "type": "fileInject",
+          "fileId": "f2",
+          "fileName": "black_ground.js",
+          "file": "(function () {\n  'use strict';\n  try {\n    if (window.__iceBlackGround) return;\n    window.__iceBlackGround = 1;\n    var queued = false;\n    function paint(el) {\n      if (!el || !el.style) return;\n      var s = el.style;\n      if (s.getPropertyValue('background-color') !== 'rgb(0, 0, 0)' || s.getPropertyPriority('background-color') !== 'important')\n        s.setProperty('background-color', '#000', 'important');\n      if (s.getPropertyValue('background-image') !== 'none' || s.getPropertyPriority('background-image') !== 'important')\n        s.setProperty('background-image', 'none', 'important');\n    }\n    function applyAll() {\n      queued = false;\n      try {\n        var d = document;\n        paint(d.documentElement); paint(d.body);\n        paint(d.getElementById('bod')); paint(d.getElementById('can'));\n      } catch (e) {}\n    }\n    function schedule() {\n      if (queued) return;\n      queued = true;\n      (window.requestAnimationFrame || setTimeout)(applyAll, 50);\n    }\n    function start() {\n      applyAll();\n      try {\n        var mo = new MutationObserver(schedule);\n        var d = document;\n        [d.documentElement, d.body, d.getElementById('bod'), d.getElementById('can')].forEach(function (el) {\n          if (el) mo.observe(el, { attributes: true, attributeFilter: ['style', 'class'] });\n        });\n      } catch (e) {}\n      var n = 0, t = setInterval(function () { applyAll(); if (++n >= 20) clearInterval(t); }, 1000);\n    }\n    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', start);\n    else start();\n  } catch (e) {}\n})();\n",
+          "fileType": "js",
+          "injectLocation": "head",
+          "on": true
+        },
+        {
+          "type": "fileInject",
+          "fileId": "f3",
+          "fileName": "perf.js",
+          "file": "/* ice perf f3: uses ONLY the game's own localStorage key \"particles\" (0=off,1=low,2=high; game default 2).\n   Read by the client at every game start (reset()). No built-ins patched, no intervals, client.js untouched. */\n(function () {\n  try {\n    if (window.__icePerf) return; window.__icePerf = 1;\n    var ls = window.localStorage;\n    if (ls && ls.getItem('particles') !== '0') ls.setItem('particles', '0');\n  } catch (e) {}\n})();\n",
+          "fileType": "js",
+          "injectLocation": "head",
+          "on": true
+        },
+        {
+          "type": "fileInject",
+          "fileId": "f4",
+          "fileName": "perf.css",
+          "file": "/* ice perf f4: hide the 970x250 menu ad slot (element kept in DOM; client only checks #trevda/#preroll exist). */\n#bebebaba,#devast-io_970x250{display:none !important}\n/* stop decorative CSS animations/transitions on HTML UI only; canvas is drawn by JS and unaffected */\nbody *:not(canvas){animation-duration:0s !important;animation-iteration-count:1 !important;transition-duration:0s !important}\n",
+          "fileType": "css",
+          "injectLocation": "head",
+          "on": true
+        }
+      ],
+      "on": true
+    }
+  ]
+}
